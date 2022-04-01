@@ -1,0 +1,82 @@
+/* CSS Document */
+
+body{
+	width: 1100px;
+	background-color:#E4E4E4;
+	background-image: url(img/dpic.tiankong.jfif);
+}
+#contain{
+	width: 800px;
+	margin: 0px auto;
+	background-color:#000000;
+	
+}
+h1{
+	text-align: center;
+	font-family:aclonica;
+	
+	
+}
+#biaoti{
+	background-color: 	#3CB371;
+	background-image: url(img/1111.jpg);
+	margin: 0px;
+	height: 100px;
+	
+}
+#biaoti a{
+	text-decoration: none;
+	color: #000000;
+	font-size: 13px;
+}
+footer{
+	height: 80px;
+	background-color:#3CB371;
+	text-align: center;
+	margin: 0px;
+	font-size: 25px;
+}
+#wenquan{
+	width: 600px;
+	height: 145px;
+	margin: 0px auto;
+	padding: 4px;
+	background-color:#DEFBD9;
+		border-style:ridge;
+	border-color: darkorange;
+}
+#wenquan img{
+	float: left;
+	padding: 4px;
+	padding-right: 40px;
+
+}
+#nalu{
+	width: 600px;
+	height: 175px;
+	margin: 0px auto;
+	
+	background-color:#DEFBD9;
+	border-style:ridge;
+	border-color: darkorange;
+}
+#nalu img{
+	float: left;
+	
+	padding-right: 40px;
+	
+}
+#yunjiang{
+	width: 600px;
+	height: 175px;
+    margin: 0px auto;
+	background-color:#DEFBD9;
+		border-style:ridge;
+	border-color: darkorange;
+	
+}
+#yunjiang img{
+	float: left;
+	padding-right: 40px;
+	
+}

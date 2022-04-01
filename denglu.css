@@ -1,0 +1,183 @@
+/* CSS Document */
+
+body{
+	
+	background-color: #000000;
+	position:absolute;
+}
+/* CSS Document */
+
+/* CSS Document */
+
+#contain{
+	width: 2000px;
+	background-image:url(img/iio.jpg);
+	background-repeat: no-repeat;
+	
+}
+h1{ color:#ffffff;
+	text-align: center;
+	font-family:aclonica;
+	font-style: oblique;
+	font-weight: bolder;
+	font-size: 50px;
+	
+	
+}
+
+.p{
+	text-align: 15px;
+	text-indent: 2em;
+	padding-right: 10px;
+	
+}
+#footer{
+	width: 800px;
+	height: 100px;
+	text-align: center;
+	font-size: 50px;
+	color: #f15a22;
+	position: absolute;
+	left: 278px;
+	top: 1469px;
+}
+ #one{
+	width: 500px;
+	height: 452px;
+	margin: 0px auto;
+	padding: 4px;
+	text-align: center;
+	color: #ffffff;
+	border-style: ridge;
+	border-color: darkorange;
+	position: absolute;
+	left: 690px;
+	top: 225px;
+}
+
+#tow{
+	width: 500px;
+	height: 45px;
+	position: absolute;
+	left: 47px;
+	top: 283px;
+	
+}
+
+#three{
+	width: 455px;
+	height: 293px;
+	color: #ffffff;
+	position: absolute;
+	left: 393px;
+	top: 652px;
+	border-style: solid;
+	border-color: #FFFFFF;
+}
+
+#four {
+	width: 440px;
+	height: 260px;
+	color: #ffffff;
+	position: absolute;
+	left: 589px;
+	top: 896px;
+	border-style:solid;
+	border-color:#FFFFFF;
+	padding-top: 15px;
+}
+#five {
+	width: 375px;
+	height: 230px;
+	position: absolute;
+	left: 41px;
+	top: 507px;
+	color: #ffffff;
+	border-style:solid;
+	border-color:#FFFFFF;
+}
+#six{
+	width: 352px;
+	height: 250px;
+	position: absolute;
+	left: 271px;
+	top: 1149px;
+	color: #ffffff;
+	border-style: solid;
+	border-color: #FFFFFF;
+}
+#eight{
+	width: 365px;
+	height: 250px;
+	position: absolute;
+	left: 886px;
+	top: 1108px;
+	color: #ffffff;
+	border-style: solid;
+	border-color: #FFFFFF;
+}
+#nine{
+	width: 382px;
+	height: 250px;
+	position: absolute;
+	left: 37px;
+	top: 925px;
+	color: #ffffff;
+	border-style: solid;
+	border-color: #FFFFFF;
+}
+#biaoti{
+	width: 400px;
+	height: 110px;
+	position: absolute;
+	left: 368px;
+	top: 73px;
+	
+}
+nav{
+	
+	background-color: #f15a22;
+/*	background-image:url(img/barner2.jpg);*/
+	/*background-repeat: no-repeat;*/
+	height: 41px;
+	padding: 0px;
+	
+}
+nav li{
+	list-style: none;
+	text-align: center;
+	
+}
+a{
+	text-decoration: none;
+	color:#000000;
+	font-size: 20px;
+	font-family:黑体;
+	display: block;
+}
+nav ul li{
+	width: 150px;
+	line-height: 45px;
+	float: left;
+	border: 1px #0D3A13 hidden ;
+}
+nav ul li ul{
+	display: none;} 
+nav ul li a:hover{
+	color: #FB4407;
+	background-color: #E9F5CE;
+}
+nav ul li:hover ul{
+	display: inline-block;
+	width: 120px;
+	height: 24px;
+	
+}
+nav ul li ul li{
+	background-color:#DBF3C0;
+	width: 120px;
+}
+nav ul li ul li a:hover{
+	background-color: #E9F5CE;
+	color: #FB4407;
+}

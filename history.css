@@ -1,0 +1,150 @@
+/* CSS Document */
+/* CSS Document */
+
+body{
+	width: 1100px;
+	background-color:#E4E4E4;
+	background-image: url(img/dpic.tiankong.jfif);
+}
+#contain{
+    border-style:double;
+	border-color: aliceblue;
+	width: 950px;
+	height: 1415px;
+	margin: 0px auto;
+	background-color:#000000;
+/*	padding-top: 0px;*/
+	position:relative;
+	
+}
+#contain a{
+	color: #000000;
+	font-weight: bolder;
+	
+}
+#return{
+	float: left;
+}
+#header{
+	background-image: url(img/77.jpeg);
+	margin: 0px auto;
+	padding-top: 0px;
+	height: 105px;
+	text-align: center;
+	font-size: 18px;
+	font-style: italic;
+	border-style: double;
+	
+	border-color: #F44A08;
+}
+
+p{
+	text-indent: 2em;
+	color: #FFFFFF;
+	padding-right: 15px;
+	
+	line-height:35px;
+}
+
+.lishi{
+	color:#FFF500;
+}
+*{  margin:0; 
+	font-family:Verdana;}
+
+
+#contain #zhongxin{
+	width: 304px;
+	height: 216px;
+	position: absolute;
+	left: 211px;
+	padding: 0px;
+	top: 251px;
+	
+}
+#contain #one{
+	width: 304px;
+	height: 216px;
+	position: absolute;
+	left: 4px;
+	top: 134px;
+	
+}
+#contain #tow{
+	width: 304px;
+	height: 216px;
+	position: absolute;
+	left: 45px;
+	top: 477px;
+}
+#contain #three{
+	width: 304px;
+	height: 216px;
+	position: absolute;
+	left: 625px;
+	top: 155px;
+}
+#contain #four{
+	width: 304px;
+	height: 216px;
+	position: absolute;
+	left: 630px;
+	top: 494px;
+}
+#contain #five{
+	width: px;
+	height: 216px;
+	position: absolute;
+	left: 421px;
+	top: 779px;
+}
+#contain #img3{
+	width: 304px;
+	height: 215px;
+	position: absolute;
+	left: 52px;
+	padding: 0px;
+	top: 771px;
+	
+}
+#contain #img2{
+	width: 900px;
+	height: 239px;
+	position: absolute;
+	left: 25px;
+	padding: 0px;
+	top: 1009px;
+	
+}
+/*text*/
+.one{
+	padding: 10px;
+	float: left;
+}
+.onet{
+	margin-left: 10px;
+}
+.tow{
+	
+	float: right;
+}
+#text2{
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 0px;
+	float: left;
+	width: 725px;
+	height: 100px;
+}
+footer{
+	color: #FFFFFF;
+	background-image: url(img/77.jpeg);
+	float:left;
+	width: 949px;
+	height: 100px;
+	text-align: center;
+	font-size: 20px;
+	margin-top:  40px;
+
+	
+}

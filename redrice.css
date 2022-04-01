@@ -1,0 +1,87 @@
+/* CSS Document */
+
+body{
+	width: 1000px;
+	background-image: url(img/oo.jpg);
+	background-repeat: no-repeat;
+}
+#contain a{
+	color: #ffffff;
+	font-weight: bolder;
+	
+}
+#return{
+	background-color: #094926;
+	line-height: 30px;
+	
+}
+h1{
+text-align: center;
+	font-size: 50px;
+	color: #0E5B25;
+}
+h2{
+	background-image: url(img/ppp.jpg);
+	background-repeat: no-repeat;
+    color: #FFFFFF;
+	line-height: 45px;
+	
+}
+h3{
+	color:#9129F5;
+}
+p{
+	text-indent: 2em;
+}
+
+#contain{
+	
+	position: absolute;
+	text-align:left;
+	background-color:#f5fffa;
+	width: 800px;
+	height: 1880px;
+	left: 250px;
+	right: 300px;
+	top: 14px;
+	line-height: 30px;
+	font-weight: bolder;
+}
+
+#gongxiao img{
+	margin: 0px,auto;
+	border-style:double;
+}
+#shii{
+	float:left;
+	padding: 0px;
+}
+#shit{
+	width: 500px;
+	float: right;
+}
+#jiangi {
+	float:right;
+	padding: 0px;
+}
+#jiangt{
+	float: left;
+	width: 500px;
+	padding: 10px;
+	
+}
+#doui{
+	float:left;
+	padding: 0px;
+}
+#dout{
+	width: 500px;
+	float: right;
+}
+footer{
+	color: #FFFFFF;
+	height: 120px;
+	background-color: #094926;
+	text-align: center;
+	font-size: 30px;
+	

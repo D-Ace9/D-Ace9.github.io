@@ -1,0 +1,59 @@
+/* CSS Document */
+body{
+	width: 1100px;
+	background-color:#E4E4E4;
+	height: 1000px;
+		background-image: url(img/dpic.tiankong.jfif);
+
+}
+#contain{
+		border-style:double;
+	border-color: aliceblue;
+	width: 950px;
+	height: 1100px;
+	margin: 0px auto;
+	background-color:#000000;
+	padding: 20px;
+}
+#contain a{
+	color: #FFFFFF;
+	
+}
+h1{color: #FFFFFF;
+	text-align:center;
+	font-size: 50px;
+}
+
+p{
+	text-indent: 2em;
+	color: #FFFFFF;
+	
+	line-height:25px;
+}
+#img{
+	
+	margin: 0px auto;
+	padding: 15px;
+	padding-left: 25px;
+}
+#img img{
+	border-style:ridge;
+	border-color: darkorange;
+}
+table{
+	margin: 0px auto;
+	background-color: aliceblue;
+	text-align: center;
+}
+caption{
+	background-color: aliceblue;
+	width: 80px;
+	text-align: center;
+}
+footer{
+	color: aliceblue;
+	float: right;
+}
+.welcom{
+	text-align: center;
+	color: #F04A09;
